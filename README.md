@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeaceNwachukwu
 - 👀 I’m interested in Tech (Data science and cyber security)
 - 🌱 I’m currently learning data analysis 
-- 💞️ I’m looking to know more
+- 💞️ I’m looking forward to knowing more
 - 📫 How to reach me ...peacenwachukwu96@gmail.com
 
 <!---
